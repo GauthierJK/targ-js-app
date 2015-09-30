@@ -1,0 +1,1 @@
+var profileEvents = getBean("events.register.profile");
